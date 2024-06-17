@@ -12,3 +12,5 @@ customize the default...? No
 git clone https://github.com/seokjinhwang/next14-starter.git
 code . -> npm i
 
+* rafc snippet 수정
+(C:\Users\seokjin\.vscode\extensions\dsznajder.es7-react-js-snippets-4.4.3\lib\snippets)
